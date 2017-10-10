@@ -11,8 +11,6 @@ $method = $_SERVER['REQUEST_METHOD'];
 		$getDevice = '';
 		$registrationIds = array();
 
-		
-
 	
 			define( 'API_ACCESS_KEY', 'AIzaSyCEkOOPK1QtOsPPPpzvpgAucSS408Js2d0');
 			$registrationIds[] = $getDeviceToken;
